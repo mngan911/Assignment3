@@ -1,2 +1,6 @@
-# Assignment3
-Assignment 3 - Monte Carlo and Bootstrap
+# Assignment3 - Monte Carlo and Bootstrap
+Usagi Group
+
+Hu Rongxin (/RongxinHu)
+
+Nguyen Minh Ngan (/mngan911)
